@@ -1,0 +1,15 @@
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\taskAdd03.csproj.AssemblyReference.cache
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\taskAdd03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\taskAdd03.AssemblyInfoInputs.cache
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\taskAdd03.AssemblyInfo.cs
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\taskAdd03.csproj.CoreCompileInputs.cache
+C:\Домашка\homework5\taskAdd03\bin\Debug\net6.0\taskAdd03.exe
+C:\Домашка\homework5\taskAdd03\bin\Debug\net6.0\taskAdd03.deps.json
+C:\Домашка\homework5\taskAdd03\bin\Debug\net6.0\taskAdd03.runtimeconfig.json
+C:\Домашка\homework5\taskAdd03\bin\Debug\net6.0\taskAdd03.dll
+C:\Домашка\homework5\taskAdd03\bin\Debug\net6.0\taskAdd03.pdb
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\taskAdd03.dll
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\refint\taskAdd03.dll
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\taskAdd03.pdb
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\taskAdd03.genruntimeconfig.cache
+C:\Домашка\homework5\taskAdd03\obj\Debug\net6.0\ref\taskAdd03.dll
